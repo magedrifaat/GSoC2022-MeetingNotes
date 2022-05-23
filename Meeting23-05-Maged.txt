@@ -1,0 +1,14 @@
+Points Covered:
+  - Communication medium and frequency (Meetings 3 times a week: Monday, Wednesday, and Friday)
+  - libtiff advantage over graphicsmagick (Quantum)
+  - Development process (Separate mercurial repo for the project)
+  - Matlab usage is not allowed till the end of the project
+
+Points to investigate:
+   - Hosting for the repo
+   - Octave class instantiation through the interpreter and classdefs
+   - Tiff standard and tiff_tag_read
+   - Activity in the community (Help through forums and stackoverflow)
+   - Personal site vs regular forum updates (Github pages, Jekyll, netlify)
+
+Next meeting: Friday 13:00 UTC+1
