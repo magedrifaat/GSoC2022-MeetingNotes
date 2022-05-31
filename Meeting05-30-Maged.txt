@@ -1,0 +1,13 @@
+Points Covered:
+    - POC classdef creation working by modifying octave internals
+    - No OOP from C++ side (start simple and adapt to use cases in the future)
+    - My updates about the project will be through personal website
+    - My Repo will be hosted on osdn.net
+
+Action Points:
+    - Write the classdef creation POC using an oct file (ask in the forums)
+    - Look into octave differentiating classes from constructors
+    - Set up my personal website
+    - Read about autotools and octave build configurations
+    - Work on POC to read the number of pages and the dimensions of each
+      page of a Tiff file from C++ and from Octave (file I/O)
