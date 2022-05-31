@@ -4,7 +4,7 @@ Points Covered:
   - Development process (Separate mercurial repo for the project)
   - Matlab usage is not allowed till the end of the project
 
-Points to investigate:
+Action Points:
    - Hosting for the repo
    - Octave class instantiation through the interpreter and classdefs
    - Tiff standard and tiff_tag_read
