@@ -11,3 +11,5 @@ Action Points:
     - Read about autotools and octave build configurations
     - Work on POC to read the number of pages and the dimensions of each
       page of a Tiff file from C++ and from Octave (file I/O)
+
+Next meeting: Monday 13:00 UTC+1
