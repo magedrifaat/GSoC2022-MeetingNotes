@@ -1,0 +1,10 @@
+Points Covered:
+    - classdef and C++ (use thin wrappers for now, maybe come back to it later)
+    - personal website for updates and parallel thread on forums for discussion
+
+Action Points:
+    - Work on POC to read the number of pages and the dimensions of each
+      page of a Tiff file from C++ (libtiff and file I/O)
+    - Look into my RSS Feed/ Prepare for planet.octave.org
+
+Next meeting: Friday 13:00 UTC+1 (confirm on thursday)
