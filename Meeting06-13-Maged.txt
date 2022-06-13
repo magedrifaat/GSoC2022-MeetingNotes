@@ -1,0 +1,18 @@
+Points Covered:
+    - Octave handling multi-page images with different dimensions/color configurations:
+        each image should be returned as a matrix depending on its own 
+        configuration (rows x columns x channels).
+    - BigTiff support: Default in libtiff >= 4.0 (shouldn't use any earlier version).
+    - Libtiff accessing large number of pages is worse than O(n).
+    - There may be a regular meeting with all GSoC mentors/contributors.
+    - Our meetings will be Monday and Wednesday every week at 13:00 UTC+1.
+
+Action Points:
+    - Add the meeting link and a file with dates I am not available to the notes repo.
+    - Start working on the classdef for Tiff (retrieving tags).
+    - Set up the hosting repository from Octave.
+    - Set up a separate repo for the POCs (Github)
+    - Work on POC to write a Tiff file with multiple pages (10, 100, 1000, ...)
+      with empty or single pixel bitmaps and check performance.
+
+Next meeting: Wednesday 13:00 UTC+1
