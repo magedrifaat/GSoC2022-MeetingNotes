@@ -1,0 +1,16 @@
+Points Covered:
+    - Adding my files to octave: m files in appropriate scripts subdirectory
+        (io for the tiff class) and internal functions in libintrep/dldfcn
+    - Making libtiff optional: assume it is available for now, revisit it later
+        to add the needed configurations
+    - Bookmarks are the common way to branching in mercurial, branches are for
+        heavier parallel projects and are not as lightweight as in git.
+
+Action Points:
+    - Add links in notes readme for the fork repo and the POCs repo
+    - Add the new classdef to the octave build system
+    - Find a better way to keep the Tiff handle around (Ask in forums)
+    - Finish implementing getTag for different tag data types.
+    - Implement setTag.
+
+Next Meeting: Wednesday 13:00 UTC+1
