@@ -1,0 +1,16 @@
+Points Covered:
+    - Tiff classdef is now added to the Octave build system
+    - Prefered method for pretaining pointer returned by TIFFOpen
+      as a child class of octave_base_value similar to mmuetzel's
+      implementation answered on the forums (Will be implemented later)
+    - My seminar was postponed to 02/07 (will update the dates)
+
+Action Points:
+    - Add my weekly website post
+    - Finish implementing getTag for different data types
+    - Implement setTag
+    - Look into the necessary configurations in configure.ac for
+        the new Tiff classdef
+    - Make notes of all the things that will be implemented later
+
+Next meeting: Monday 13:00 UTC+1
