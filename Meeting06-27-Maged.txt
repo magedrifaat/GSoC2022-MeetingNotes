@@ -1,0 +1,24 @@
+Points Covered:
+    - Minimum details to conform with octave coding style
+    - Ignore Tiff extensions for now (e.g. geotiff)
+    - GrayResponseCurve and GrayResponseUnit are used to map
+       grayscale pixels to values similar to ColorMap for palette images
+    - Presentation next Friday for 5 minutes
+
+Action Points:
+    - Add entry in configure.ac for libtiff
+    - Fix formatting of code to be consistent with octave
+    - Check the correct return type for scalars
+    - Test special tags by creating suitable tiff files
+    - Make a map for tags supported outside of libtiff
+    - Add explicit comments about undocumented tags
+    - Make note of all the things to be implemented later
+    - Prepare a 5 min Presentation about the project
+        - The problem: pros and cons of GraphicsMagcik
+        - The solution: libtiff
+        - The scope: Tiff class then im* functions
+        - Progress so far
+    - Start Working on setTag
+    - Add my weekly website post
+
+Next Meeting: Wednesday 13:00 UTC+1
