@@ -1,0 +1,17 @@
+Points Covered:
+    - Unclarity in commit messages
+    - Reason for namespace macros for legacy code
+
+Action Points:
+    - Add file to octave namespace
+    - Check the correct return type for scalars
+    - Test special tags by creating suitable tiff files
+    - Make a map for tags supported outside of libtiff
+    - Add explicit comments about undocumented tags
+    - Follow octave commit style
+    - Test the classdef in a clone build (different machines)
+    - Start Working on the read function
+    - Start using HAVE_TIFF flag to optionally disable the class
+    - Add my weekly website post
+
+Next Meeting: Wednesday 13:00 UTC+1
