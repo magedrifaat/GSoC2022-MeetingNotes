@@ -1,0 +1,16 @@
+Points Covered:
+    - Making the first line of a commit less ambiguous.
+    - The most efficient method of reading images
+      (read as fast as possible from LibTIFF then do necessary
+       matrix transformations to reach the octave formatting).
+    - Writing tests that generate their on images to reduce size.
+
+Action Points:
+    - Finish implementing the read function.
+    - Test HAVE_TIFF by disabling tiff from the configure script.
+    - Check the correct output for images with GrayResponseCurve.
+    - Check if an empty image (no IFD or IFDs with no image data)
+      is permitted and use it to write tests.
+    - Ask on forums for testing on different machines.
+
+Next meeting: Wednesday the 18th 13:00 UTC+1
