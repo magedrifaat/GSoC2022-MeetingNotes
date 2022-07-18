@@ -1,0 +1,16 @@
+Points Covered:
+    - If i am doing something in a non-conventional way I should leave
+      a comment to explain it to save time for future maintainers.
+    - GNU Readline tool used in Octave and many types of terminals.
+
+Action Points:
+    - Finish implementing the read function (support float and YCbCr).
+    - Use matrix transpose, permute and reshape instead of pointer math to
+      put image data in its right form.
+    - Convert ColorMap to double, check other tags that may need conversion.
+    - Move image_data inititalization to a constructor.
+    - Remove support for read header mode to avoid image state with no IFD.
+    - Test 4-bit grayscale images.
+    - Check if orientation tag should affect return data of read.
+
+Next meeting: Wednesday 13:00 UTC+1
