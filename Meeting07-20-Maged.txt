@@ -1,0 +1,19 @@
+Points Covered:
+    - Array::cat is the function that Octave uses to concatenate matrices.
+    - All cases need to be noted so we can make a test case for them later
+    - Support for YCbCr will be postponed for later in favor of the functions
+      needed for writing tests
+
+Action Points:
+    - Add weekly website post.
+    - Finish implementing the read function (support float and signed int).
+    - Remove support for read header mode.
+    - Mark "r+" mode as not supported for now.
+    - Test 4-bit grayscale images.
+    - Check if orientation tag should affect return data of read.
+    - Implement functions necessary for writing tests.
+    - Make a table of functions or features, what is done and what remains,
+      with any comments about the features and a rough timeline.
+    - Add documentation for the classdef so print_usage can be used
+
+Next meeting: Monday 13:00 UTC+1
