@@ -1,0 +1,16 @@
+Points Covered:
+    - 4-bit images and 16-bit floating-point images are not
+      common and can be postponed for later or ignored.
+    - libinterp function can't be used from oct files and
+      dldfcns while liboctave functions can.
+    - Bugs related to Tiff in the bug tracker can be closed
+      after the end of this project.
+
+Action Points:
+    - Write tests for implemented functions
+    - Look into moving bitpack to liboctave
+    - Finish implementing writeEncodedStrip
+    - Look into magick read functions modifications to use matrix
+      operations and measure performance differece
+
+Next meeting: Wednesday 13:00 UTC+1
