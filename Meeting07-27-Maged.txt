@@ -1,0 +1,16 @@
+Points Covered:
+    - Code that deviates from matlab's behavior should have comments
+      explaining, as well as code that handles a special case for 
+      matlab compatibility.
+    - Using constant values for data in testing is better than generating
+      random numbers for repeatability.
+
+Action Points:
+    - Add weekly post
+    - Write tests for implemented functions
+    - Look into moving bitpack to liboctave
+    - Finish implementing writeEncodedStrip
+    - Look into magick read functions modifications to use matrix
+      operations and measure performance differece
+
+Next meeting: Monday 13:00 UTC+1
