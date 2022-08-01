@@ -1,0 +1,15 @@
+Points Covered:
+    - structs can be scalar or struct arrays
+    - It will be useful to test against different versions
+      of LibTIFF at the end to find the earliest supported version.
+    - Images used for testing must have a traceable copyright and 
+      permission to be distributed
+
+Action Points:
+    - Add weekly post
+    - Implement the write function
+    - Implement readEncodedStrip / readEncodedTile
+    - Write tests for the implemented functons
+    - Add an option to silence/unsilence LibTIFF errors and warnings
+
+Next meeting: Tuesday the 9th 13:00 UTC+1
