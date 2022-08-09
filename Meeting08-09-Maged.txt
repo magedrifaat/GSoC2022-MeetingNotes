@@ -1,0 +1,14 @@
+Points Covered:
+    - Line count doesn't matter as much as readability and maintainability.
+    - Tiff class and solving its bugs has priority over im* functions.
+
+Action Points:
+    - Add weekly post.
+    - Move the internal functions to the core.
+    - Add an option to silence/unsilence LibTIFF errors and warnings.
+    - Finish implementing setTag.
+    - Implement custom read modes (readRGBAImage/Strip/Tile).
+    - Implement directory manipulation methods.
+    - Handle all remaining bugs / missing features in the Tiff class.
+
+Next meeting: Tuesday the 30th 13:00 UTC+1
